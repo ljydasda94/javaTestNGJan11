@@ -28,7 +28,6 @@ public class Day1CodingEx {
         int num = 5;
         String s = "I have " + num + " cookies";
 
-
         System.out.println(s);
     }
 
